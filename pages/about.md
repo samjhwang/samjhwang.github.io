@@ -5,9 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About Me📊👨‍💻**
 
-Hi there! 👋 I am **{{ site.author.name }}**,<br> and I am a dedicated and driven student with a passion for data science / data analytics. With a background in statistics, programming, and data visualization, I am interested in the importance of data-driven decisionmaking and insights. 📊📚  As an avid learner, I am consistently honing my expertise, keeping pace about emerging technologies and practices. 
+Hi there! 👋 I am **{{ site.author.name }}**, and I am a dedicated and driven student with a passion for data science / data analytics. With a background in statistics, programming, and data visualization, I am interested in the importance of data-driven decisionmaking and insights. 📊📚  As an avid learner, I am consistently honing my expertise, keeping pace about emerging technologies and practices. 
 
 On my free time, you can find me engaged in sports such as basketball and volleyball, playing video games, or writing blog posts about movies, tv shows, or new technologies! 💻🔍
 
